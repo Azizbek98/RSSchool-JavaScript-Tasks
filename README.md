@@ -13,7 +13,7 @@
 ##### Clone repo:
 
 ```bash
-git clone https://github.com/Azizbek98/RSSchool-JavaScript.git
+git clone https://github.com/Azizbek98/RSSchool-JavaScript-Tasks.git
 ```
 
 ##### Install and run:
